@@ -1,0 +1,13 @@
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\bin\Debug\netcoreapp3.1\RomanLettersAndTaxes.exe
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\bin\Debug\netcoreapp3.1\RomanLettersAndTaxes.deps.json
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\bin\Debug\netcoreapp3.1\RomanLettersAndTaxes.runtimeconfig.json
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\bin\Debug\netcoreapp3.1\RomanLettersAndTaxes.runtimeconfig.dev.json
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\bin\Debug\netcoreapp3.1\RomanLettersAndTaxes.dll
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\bin\Debug\netcoreapp3.1\RomanLettersAndTaxes.pdb
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\obj\Debug\netcoreapp3.1\RomanLettersAndTaxes.csprojAssemblyReference.cache
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\obj\Debug\netcoreapp3.1\RomanLettersAndTaxes.AssemblyInfoInputs.cache
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\obj\Debug\netcoreapp3.1\RomanLettersAndTaxes.AssemblyInfo.cs
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\obj\Debug\netcoreapp3.1\RomanLettersAndTaxes.csproj.CoreCompileInputs.cache
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\obj\Debug\netcoreapp3.1\RomanLettersAndTaxes.dll
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\obj\Debug\netcoreapp3.1\RomanLettersAndTaxes.pdb
+C:\Users\40722\source\repos\RomanLettersAndTaxes\RomanLettersAndTaxes\obj\Debug\netcoreapp3.1\RomanLettersAndTaxes.genruntimeconfig.cache
